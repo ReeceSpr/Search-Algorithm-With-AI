@@ -1,0 +1,166 @@
+====================================================================================================================================================
+                                              SEARCH ALGORITHMS
+                                                 2019 version
+====================================================================================================================================================
+EXPERIMENT (1)
+====================================================================================================================================================
+INIT_STATE_#1:  042158367     GOAL STATE: 123804765
+====================================================================================================================================================
+ ALGORITHM                       PATH_LENGTH    STATE_EXPANSIONS    MAX_QLENGTH   RUNNING_TIME  DELETIONS_MIDDLE_HEAP ATTEMPTED_REEXPANSIONS
+====================================================================================================================================================
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+1) breadth_first_search
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0      39960               19941     1200.061035               0               0
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+2) breadth_first_search_vlist
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0      56571               17975     1200.001953               0               0
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+3) pds_no_vlist
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0     194148                  23     1200.020996               0               0
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+4) uniformCost_ExpandedList
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0      66232               30313     1200.050049               0               0
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+5) astar_explist_misplacedtiles
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0      65580               29586     1200.025024               0               0
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+6) astar_explist_manhattan
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0      65666               23187     1200.005005               0               0
+====================================================================================================================================================
+EXPERIMENT (2)
+====================================================================================================================================================
+INIT_STATE_#2: 364058271     GOAL STATE: 123804765
+====================================================================================================================================================
+ ALGORITHM                       PATH_LENGTH    STATE_EXPANSIONS    MAX_QLENGTH  RUNNING_TIME  DELETIONS_MIDDLE_HEAP ATTEMPTED_REEXPANSIONS
+====================================================================================================================================================
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+1) breadth_first_search
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0      39140               22425     1200.062988               0               0
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+2) breadth_first_search_vlist
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0      55173               20837     1200.003052               0               0
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+3) pds_no_vlist
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0     194630                  24     1200.005005               0               0
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+4) uniformCost_ExpandedList
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0      59592               27207     1200.031982               0               0
+5) astar_explist_misplacedtiles         21       5109                3243        9.362000               0               0
+6) astar_explist_manhattan              21        231                 161        0.031000               0               0
+====================================================================================================================================================
+EXPERIMENT (3)
+====================================================================================================================================================
+INIT_STATE_#3: 281463075     GOAL STATE: 123804765
+====================================================================================================================================================
+ ALGORITHM                       PATH_LENGTH    STATE_EXPANSIONS    MAX_QLENGTH  RUNNING_TIME  DELETIONS_MIDDLE_HEAP ATTEMPTED_REEXPANSIONS
+====================================================================================================================================================
+1) breadth_first_search                 12       1861                1114        3.276000               0               0
+2) breadth_first_search_vlist           12       1681                 966        1.628000               0               0
+3) pds_no_vlist                         18      21102                  16       21.480000               0               0
+4) uniformCost_ExpandedList             12       1709                1084        1.090000               0               0
+5) astar_explist_misplacedtiles         12         95                  77        0.008000               0               0
+6) astar_explist_manhattan              12         25                  23        0.002000               0               0
+====================================================================================================================================================
+EXPERIMENT (4)
+====================================================================================================================================================
+INIT_STATE_#4: 567408321     GOAL STATE: 123804765
+====================================================================================================================================================
+ ALGORITHM                       PATH_LENGTH    STATE_EXPANSIONS    MAX_QLENGTH  RUNNING_TIME  DELETIONS_MIDDLE_HEAP ATTEMPTED_REEXPANSIONS
+====================================================================================================================================================
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+1) breadth_first_search
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0      35302               18738     1200.043945               0               0
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+2) breadth_first_search_vlist
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0      49632               18785     1200.035034               0               0
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+3) pds_no_vlist
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0     178920                  25     1200.003052               0               0
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+4) uniformCost_ExpandedList
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0      61610               31909     1200.022949               0               0
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+5) astar_explist_misplacedtiles
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0      64120               29551     1200.031006               0               0
+6) astar_explist_manhattan              30        666                 410        0.163000               0               0
+====================================================================================================================================================
+EXPERIMENT (5)
+====================================================================================================================================================
+INIT_STATE_#5: 463508721     GOAL STATE: 123804765
+====================================================================================================================================================
+ ALGORITHM                       PATH_LENGTH    STATE_EXPANSIONS    MAX_QLENGTH  RUNNING_TIME  DELETIONS_MIDDLE_HEAP ATTEMPTED_REEXPANSIONS
+====================================================================================================================================================
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+1) breadth_first_search
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0      38899               19574     1200.015015               0               0
+
+
+*---- Search Timed Out. (Searched For 1 Hour) ----*
+2) breadth_first_search_vlist
+
+*---- NO SOLUTION found. (Q is empty!) ----*
+          0      54187               18806     1200.015991               0               0
